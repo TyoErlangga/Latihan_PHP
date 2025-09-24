@@ -1,3 +1,4 @@
+<?php
 $a = 5;
 $text = "Belajar ";
 echo "<h2>3. Operator Penugasan</h2>";

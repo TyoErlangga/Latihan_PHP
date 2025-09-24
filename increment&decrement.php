@@ -1,3 +1,4 @@
+<?php
 $x = 5;
 echo "<h2>7. Increment / Decrement</h2>";
 echo "Awal x = $x <br/>";
